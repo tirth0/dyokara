@@ -1,0 +1,172 @@
+*{
+    margin:1px;
+    padding: 0px;
+  }
+
+
+.container-1{
+    height: 20vh;
+    width: 100vw;
+    
+    /* overflow: hidden; */
+}
+.box-main{
+  flex:1;
+  order:1;
+}
+.box-main{
+  position: relative;
+  transform: translate(35%,5%) !important;
+}
+.container-2{
+  height: 60vh;
+  width: 100vw;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.box-1{
+    flex:1;
+    order:1;
+  }
+
+  .box-2{
+    flex:1;
+    order:2;
+  }
+
+  .box-3{
+    flex:1;
+    order:3;
+  }
+
+  .box-1{
+    position: relative;
+    transform: translate(20%,5%) !important;
+}
+  .box-2{
+    position: relative;
+    transform: translate(15%,5%) !important;
+    
+}
+.box-3{
+  position: relative;
+  transform: translate(10%,5%) !important;
+  
+}
+
+.container-3{
+  height: 60vh;
+  width: 100vw;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.box-4{
+    flex:1;
+    order:1;
+  }
+
+  .box-5{
+    flex:1;
+    order:2;
+  }
+
+  .box-6{
+    flex:1;
+    order:3;
+  }
+
+  .box-4{
+    position: relative;
+    transform: translate(20%,5%) !important;
+}
+  .box-5{
+    position: relative;
+    transform: translate(15%,5%) !important;
+    
+}
+.box-6{
+  position: relative;
+  transform: translate(10%,5%) !important;
+  
+}
+
+.container-4{
+  height: 60vh;
+  width: 100vw;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.box-7{
+    flex:1;
+    order:1;
+  }
+
+  .box-8{
+    flex:1;
+    order:2;
+  }
+
+  .box-9{
+    flex:1;
+    order:3;
+  }
+
+  .box-7{
+    position: relative;
+    transform: translate(20%,5%) !important;
+}
+  .box-8{
+    position: relative;
+    transform: translate(15%,5%) !important;
+    
+}
+.box-9{
+  position: relative;
+  transform: translate(10%,5%) !important;
+  
+}
+
+.container-5{
+  height: 60vh;
+  width: 100vw;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.box-10{
+    flex:1;
+    order:1;
+  }
+
+  .box-11{
+    flex:1;
+    order:2;
+  }
+
+  .box-12{
+    flex:1;
+    order:3;
+  }
+
+  .box-10{
+    position: relative;
+    transform: translate(20%,5%) !important;
+}
+  .box-11{
+    position: relative;
+    transform: translate(15%,5%) !important;
+    
+}
+.box-12{
+  position: relative;
+  transform: translate(10%,5%) !important;
+  
+}
+
